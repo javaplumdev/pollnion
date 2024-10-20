@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Group 5](https://github.com/user-attachments/assets/04ff84b7-942c-48c8-90bd-9d40c6ecec93)
 
-## Getting Started
+# 📊 Pollnion 
 
-First, run the development server:
+Pollnion is a dynamic social media app designed for creating engaging polls and surveys. Connect with friends and communities to gather opinions, spark discussions, and make informed decisions in a fun and interactive way. Whether you're seeking feedback on a project or just curious about preferences, Pollnion makes it easy to share and explore collective insights!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/user-attachments/assets/4c8aeae5-b47e-4f7b-bc8f-25e8abcd4ce3)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Table of Contents
 
-## Learn More
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-To learn more about Next.js, take a look at the following resources:
+## Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Node.js 20.10.x or higher
+- Python 3.8 or higher
+- Windows, macOS, or Linux operating system
+- pnpm must have
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Installation
 
-## Deploy on Vercel
+1. Clone the repository:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   - git clone https://github.com/javaplumdev/sillyfrog-v2.git
+   - cd sillyfrog-v2
+   - nvm use v20.10.0
+   - npm install
+   - npm run dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Usage
+
+To use the Sillyfrog v2, follow these steps:
+
+1. Create your username and password in signup page, or continue with Facebook and Google authentication.
+2. Post your feelings and get the change to view other's posts and content too!.
+3. Interact with the users and enjoy!
+
+## Examples
+
+- Post the current content on what you feel like on posting:
