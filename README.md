@@ -4,7 +4,7 @@
 
 Pollnion is a dynamic social media app designed for creating engaging polls and surveys. Connect with friends and communities to gather opinions, spark discussions, and make informed decisions in a fun and interactive way. Whether you're seeking feedback on a project or just curious about preferences, Pollnion makes it easy to share and explore collective insights!
 
-![image](https://github.com/user-attachments/assets/4c8aeae5-b47e-4f7b-bc8f-25e8abcd4ce3)
+![Group 7](https://github.com/user-attachments/assets/95d79096-a369-4e64-8ab7-78d500681e6b)
 
 
 
